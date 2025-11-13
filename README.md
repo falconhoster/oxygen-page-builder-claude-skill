@@ -1,2 +1,4 @@
 # oxygen-page-builder-claude-skill
-a claude skill for creating oxygen pages
+
+
+Upload this skill to your claude and let it build oxygen pages for you.
